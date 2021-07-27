@@ -1,0 +1,107 @@
+#home{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+}
+#about{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+margin-top:-7px;
+
+}
+#Inspiration{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+margin-top:-42px;
+}
+#quotes{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+margin-top:-42px;
+}
+#QnA{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+margin-top:-42px;
+}
+#Contact{
+background: linear-gradient:#0093E9;
+background-image: linear-gradient(0deg, #0093E9 0%, #80D0C7 100%);
+margin-top:-42px;
+}
+#heading{
+text-align:center;
+font-family:Algerian;
+font-size:30px
+}
+img{
+text-align:center;
+height:300px;
+width:300px;
+border-radius:1000px;
+}
+.line{
+text-align:center;
+width:70px;
+height:5px;
+background-color:black;
+margin:7px auto;
+}
+#sub_heading{
+text-align: center;
+font-family:Algerian;
+}
+h1{
+text-align:center;
+font-family:Algerian;
+font-size:50px;
+}
+.content{
+text-align:center;
+}
+.link{
+padding-right:10px;
+padding-top:30px;
+padding-bottom:30px;
+list-style:none;
+font-family:cursive;
+float:center;
+right:30px;
+cursor:pointer;
+color:white;
+display:inline-block;
+width:100px;
+height:3%;
+color:white;
+text-decoration:none;
+}
+ul{
+position:sticky;
+top:0;
+}
+.link:hover{
+font-size:30px;
+color:white;
+text-shadow:3px 3px 10px white;
+text-decoration:none;
+}
+hr{
+background-color:black;
+height:10px;
+}
+.article{
+text-decoration:none;
+}
+.some_quotes{
+font-family:Algerian;
+text-align:center;
+}
+.sub-heading{
+font-family:Algerian;
+text-align:center;
+}
+#rickroll{
+background-color:aqua;
+}
+.ins:hover{
+transform: scale(0.9);
+}
